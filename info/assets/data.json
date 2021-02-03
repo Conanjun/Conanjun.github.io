@@ -857,27 +857,47 @@ getData([
         ]
     },
     {
-        "name": "号码生成器",
-        "en_name": "Number Generator",
+
+
+        "name": "杂类工具",
+        "en_name": "Misc Tools",
         "icon": "linecons-cloud",
-        "web": [
+        "children":[
             {
-                "url": "https://www.ctools.top/numberOrgCode.html",
-                "logo": "assets/images/logos/github.jpg",
-                "title": "组织机构",
-                "desc": "组织机构代码生成器 "
+                "name": "号码生成器",
+                "en_name": "Number Generator",
+                "web": [
+                    {
+                        "url": "https://www.ctools.top/numberOrgCode.html",
+                        "logo": "assets/images/logos/github.jpg",
+                        "title": "组织机构",
+                        "desc": "组织机构代码生成器 "
+                    },
+                    {
+                        "url": "https://www.ctools.top/numberREGCode.html",
+                        "logo": "assets/images/logos/github.jpg",
+                        "title": "统一社会信用代码",
+                        "desc": "统一社会信用代码生成器 "
+                    },
+                    {
+                        "url": "https://www.ctools.top/numberIdCard.html",
+                        "logo": "assets/images/logos/github.jpg",
+                        "title": "身份证号码",
+                        "desc": "身份证号码生成器 "
+                    },
+                ]
             },
             {
-                "url": "https://www.ctools.top/numberREGCode.html",
-                "logo": "assets/images/logos/github.jpg",
-                "title": "统一社会信用代码",
-                "desc": "统一社会信用代码生成器 "
-            },
-            {
-                "url": "https://www.ctools.top/numberIdCard.html",
-                "logo": "assets/images/logos/github.jpg",
-                "title": "身份证号码",
-                "desc": "身份证号码生成器 "
+                "name":"Git下载",
+                "en_name":"DownGit",
+                "web":[
+                    {
+                        "url": "https://github.com/Conanjun/DownGit",
+                        "logo": "assets/images/logos/github.jpg",
+                        "title": "DownGit",
+                        "desc": "下载github仓库"
+                    },
+                ]
             },
         ]
     },
