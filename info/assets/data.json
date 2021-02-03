@@ -892,7 +892,7 @@ getData([
                 "en_name":"DownGit",
                 "web":[
                     {
-                        "url": "https://github.com/Conanjun/DownGit",
+                        "url": "https://conanjun.github.io/DownGit",
                         "logo": "assets/images/logos/github.jpg",
                         "title": "DownGit",
                         "desc": "下载github仓库"
