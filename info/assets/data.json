@@ -879,18 +879,6 @@ getData([
                 "title": "身份证号码",
                 "desc": "身份证号码生成器 "
             },
-            
         ]
     },
-    /*
-    {
-
-            {
-                "url": "https://github.com/Conanjun/DownGit",
-                "logo": "assets/images/logos/github.jpg",
-                "title": "DownGit",
-                "desc": "下载github仓库"
-            },
-    }
-    */
 ])
