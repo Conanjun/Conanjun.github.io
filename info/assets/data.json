@@ -857,8 +857,6 @@ getData([
         ]
     },
     {
-
-
         "name": "杂类工具",
         "en_name": "Misc Tools",
         "icon": "linecons-cloud",
@@ -898,6 +896,26 @@ getData([
                         "desc": "下载github仓库"
                     },
                 ]
+            },
+        ]
+    },
+
+    {
+        "name": "红队服务",
+        "en_name": "RedTeam Service",
+        "icon": "linecons-star",
+        "web": [
+            {
+                "url": "https://xss8.cc",
+                "logo": "assets/images/logos/ghdb.jpg",
+                "title": "XSS Platform",
+                "desc": "XSS平台"
+            },
+            {
+                "url": "http://www.dnslog.cn",
+                "logo": "assets/images/logos/blackbook.png",
+                "title": "DNSLog",
+                "desc": "dns反连平台"
             },
         ]
     },
