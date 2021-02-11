@@ -5,7 +5,7 @@ getData([
         "icon": "linecons-user",
         "web": [
             {
-                "url": "https://github.com/cckuailong/InformationGather",
+                "url": "https://github.com/Conanjun/InformationGather",
                 "logo": "assets/images/logos/github.jpg",
                 "title": "InformationGather",
                 "desc": "本站源码+json数据（有帮助的留下你的star哦）"
@@ -47,6 +47,36 @@ getData([
                 "title": "FOCA",
                 "desc": "获取目标网站上文件中的元数据"
             },
+        ]
+    },
+    {
+        "name": "常用工作流",
+        "en_name": "Cmmmon WorkFlow",
+        "icon": "linecons-star",
+        "children":[
+            "name": "IP信息收集",
+            "en_name": "IP Information Gathering",
+            "web": [
+                {
+                    "url": "https://x.threatbook.cn/",
+                    "logo": "assets/images/logos/github.jpg",
+                    "title": "微步在线",
+                    "desc": "信息聚合"
+                },
+                {
+                    "url": "https://fofa.so/",
+                    "logo": "assets/images/logos/github.jpg",
+                    "title": "Fofa",
+                    "desc": "Fofa网络空间搜索引擎"
+                },
+                {
+                    "url": "https://www.zoomeye.org/",
+                    "logo": "assets/images/logos/github.jpg",
+                    "title": "ZoomEye",
+                    "desc": "知道创宇的网络空间搜索引擎"
+                },
+            ]
+
         ]
     },
     
@@ -861,6 +891,18 @@ getData([
         "en_name": "Misc Tools",
         "icon": "linecons-cloud",
         "children":[
+            {
+                "name":"BEJSON",
+                "en_name":"BEJSON",
+                "web":[
+                    {
+                        "url": "https://www.bejson.com/",
+                        "logo": "assets/images/logos/github.jpg",
+                        "title": "BEJSON",
+                        "desc": "在线开发常用工具"
+                    },
+                ]
+            },
             {
                 "name": "号码生成器",
                 "en_name": "Number Generator",
