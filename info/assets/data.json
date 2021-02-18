@@ -54,6 +54,7 @@ getData([
         "en_name": "Cmmmon WorkFlow",
         "icon": "linecons-star",
         "children":[
+            {
             "name": "IP信息收集",
             "en_name": "IP Information Gathering",
             "web": [
@@ -76,7 +77,7 @@ getData([
                     "desc": "知道创宇的网络空间搜索引擎"
                 },
             ]
-
+        }
         ]
     },
     
