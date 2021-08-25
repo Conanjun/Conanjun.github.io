@@ -4,7 +4,7 @@
   <title><![CDATA[R&T]]></title>
   <link href="https://Conanjun.github.io/atom.xml" rel="self"/>
   <link href="https://Conanjun.github.io/"/>
-  <updated>2021-08-25T17:05:50+08:00</updated>
+  <updated>2021-08-25T17:36:29+08:00</updated>
   <id>https://Conanjun.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -69,10 +69,7 @@ Enter-PSSession -ComputerName 10.1.1.132 -Authentication Negotiate -Credential $
 <a href="https://pentestlab.blog/2021/05/04/remote-potato-from-domain-user-to-enterprise-admin/">Remote Potato – From Domain User to Enterprise Admin</a><br />
 <a href="https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-dcom/9b20084f-f673-4486-b81c-f6cdcc5edf84">OXID Resolution Request</a><br />
 <a href="https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-dcom/8235bff1-4811-4706-aaf8-b75bfc533de9">IRemUnknown Methods</a><br />
-<a href="https://blog.csdn.net/weixin_51387754/article/details/116558137">Remote Potato–从域用户到企业管理员</a><br />
-8137)<br />
-8137)<br />
-8137)</p>
+<a href="https://blog.csdn.net/weixin_51387754/article/details/116558137">Remote Potato–从域用户到企业管理员</a></p>
 
 ]]></content>
   </entry>
